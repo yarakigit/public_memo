@@ -5,5 +5,6 @@
 |[less](./src/less.md)||
 |[pwd](./src/pwd.md)||
 |[file](./src/file.md)||
+|[chsh](./src/chsh.md)|chage login shell|
 
 
