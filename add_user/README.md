@@ -11,5 +11,5 @@
 
 - add sudo gruop
     ~~~bash
-    $ sudo usermod -G sudo yaraki
+    $ sudo usermod -G sudo "user-name"
     ~~~
