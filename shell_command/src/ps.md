@@ -16,6 +16,7 @@
 - 終了
     ~~~bash
     $ kill PID
+    $ kill -9 PID
     ~~~
 - 停止
     ~~~bash
