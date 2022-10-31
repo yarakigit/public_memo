@@ -13,5 +13,5 @@
 |[ln](src/ln.md)|シンボリックリンク作成|
 |[tar](src/tar.md)||
 |[mount](src/mount.md)||
-
-
+|[df](src/df.md)||
+|[du](src/du.md)||
