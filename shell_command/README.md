@@ -12,5 +12,6 @@
 |[ps](src/ps.md)||
 |[ln](src/ln.md)|シンボリックリンク作成|
 |[tar](src/tar.md)||
+|[mount](src/mount.md)||
 
 
