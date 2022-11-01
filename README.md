@@ -8,3 +8,4 @@
 |[path](./path)||
 |[shell in/out](./shell_in-out)||
 |[file system](./filesystem)||
+|[linux_mouse_settings](./linux_mouse_settings)||
