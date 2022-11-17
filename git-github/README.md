@@ -7,4 +7,5 @@
 |[log](./src/log.md)||
 |[reflog](./src/reflog.md)||
 |[reset](./src/reset.md)||
+|[submodule](./src/submodule.md)||
 |[error](./src/error.md)|エラーのメモ|
