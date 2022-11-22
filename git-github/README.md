@@ -10,3 +10,6 @@
 |[revert](./src/revert.md)|特定のコミットを打ち消す|
 |[submodule](./src/submodule.md)||
 |[error](./src/error.md)|エラーのメモ|
+
+# References
+- [マンガGit](./src/reference_comic.md)
