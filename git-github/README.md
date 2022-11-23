@@ -9,6 +9,7 @@
 |[reset](./src/reset.md)||
 |[revert](./src/revert.md)|特定のコミットを打ち消す|
 |[submodule](./src/submodule.md)||
+|[diff](./src/diff.md)||
 |[error](./src/error.md)|エラーのメモ|
 
 # References
