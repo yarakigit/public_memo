@@ -15,3 +15,4 @@
 |[mount](src/mount.md)||
 |[df](src/df.md)||
 |[du](src/du.md)||
+|[dd](src/dd.md)|ファイルコピー|
