@@ -10,6 +10,7 @@
 |[revert](./src/revert.md)|特定のコミットを打ち消す|
 |[submodule](./src/submodule.md)||
 |[diff](./src/diff.md)||
+|[lfs](./src/lfs.md)||
 |[error](./src/error.md)|エラーのメモ|
 
 # References
