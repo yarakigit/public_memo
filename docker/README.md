@@ -5,7 +5,7 @@
 |:--|:--|
 |[Dockerfile](./src/Dockerfile_memo.md)||
 ## basic
-- dockerkコマンド
+- dockerコマンド
     ~~~bash
     $ docker コマンド 操作 option
     ~~~
