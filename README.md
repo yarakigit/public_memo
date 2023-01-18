@@ -10,3 +10,4 @@
 |[file system](./filesystem)||
 |[linux_mouse_settings](./linux_mouse_settings)||
 |[docker](./docker)||
+|[macOS](./macOS/)||
