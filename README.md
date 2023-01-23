@@ -11,3 +11,4 @@
 |[linux_mouse_settings](./linux_mouse_settings)||
 |[docker](./docker)||
 |[macOS](./macOS/)||
+|[vnc](./vnc/)||
