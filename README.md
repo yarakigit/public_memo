@@ -13,3 +13,4 @@
 |[macOS](./macOS/)||
 |[vnc](./vnc/)||
 |[font](./font/)||
+|[editor](./editor/)||
