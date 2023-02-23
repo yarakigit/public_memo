@@ -92,3 +92,12 @@
 ┣ :small_orange_diamond: [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)<br>
 ┣ :small_orange_diamond: [Read-Only Indicator](https://marketplace.visualstudio.com/items?itemName=alefragnani.read-only-indicator)<br>
 ┗ :small_orange_diamond: [zenkaku](https://marketplace.visualstudio.com/items?itemName=mosapride.zenkaku)<br>
+
+
+:large_orange_diamond: **add on**<br>
+:small_orange_diamond: Bookmarks<br>
+|Command|macOS|Windows|Linux|
+|:--|:--|:--|:--|
+|bookmarks.toggle        |⌥⌘K|||
+|bookmarks.jumpToNext    |⌥⌘L|||
+|bookmarks.jumpToPrevious|⌥⌘J|||
