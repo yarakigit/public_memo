@@ -76,3 +76,16 @@
     - [./json/settings.json](./json/settings.json)
 
 ## add on
+:file_folder: Repository<br>
+┣ :small_orange_diamond: [Awesome Emacs Keymap](https://marketplace.visualstudio.com/items?itemName=tuttieee.emacs-mcx)<br>
+┣ :small_orange_diamond: [Bookmarks](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks)<br>
+┣ :small_orange_diamond: [indent-rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow)<br>
+┣ :small_orange_diamond: [Markdown Emoji](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-emoji)<br>
+┣ :small_orange_diamond: [Markdown Math](https://marketplace.visualstudio.com/items?itemName=koehlma.markdown-math)<br>
+┣ :small_orange_diamond: [Markdown PDF](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf)<br>
+┣ :small_orange_diamond: [Markdown Preview Github Styling](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-preview-github-styles)<br>
+┣ :small_orange_diamond: [Markdown Preview Mermaid Support](https://marketplace.visualstudio.com/items?itemName=bierner.markdown-mermaid)<br>
+┣ :small_orange_diamond: [Path Autocomplete](https://marketplace.visualstudio.com/items?itemName=ionutvmi.path-autocomplete)<br>
+┣ :small_orange_diamond: [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)<br>
+┣ :small_orange_diamond: [Read-Only Indicator](https://marketplace.visualstudio.com/items?itemName=alefragnani.read-only-indicator)<br>
+┗ :small_orange_diamond: [zenkaku](https://marketplace.visualstudio.com/items?itemName=mosapride.zenkaku)<br>
