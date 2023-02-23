@@ -1,5 +1,8 @@
 # vscode
 
+## Doc
+- [Visual Studio Code Doc](https://code.visualstudio.com/docs)
+
 ## Defalut Shortcut
 :file_folder: shortcut manual<br>
 ┣ :small_orange_diamond: [macOS](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf)<br>
