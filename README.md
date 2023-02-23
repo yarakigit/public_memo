@@ -14,3 +14,4 @@
 |[vnc](./vnc/)||
 |[font](./font/)||
 |[editor](./editor/)||
+|[windows_init_settings](./windows_init_settings/)|Windows 初期設定|
