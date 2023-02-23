@@ -1,0 +1,7 @@
+{
+    "workbench.colorTheme": "GitHub Dark Default",
+    "git.autofetch": true,
+    "editor.wordWrap": "on",
+    "workbench.iconTheme": "vscode-icons",
+    "latex-workshop.latex.autoBuild.run": "never"
+}

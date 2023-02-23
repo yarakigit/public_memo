@@ -33,6 +33,9 @@
 |Column (box) selection     |⇧⌥ + drag mouse       |||
 
 :large_orange_diamond: **Search and replace**
+|Command|macOS|Windows|Linux|
+|:--|:--|:--|:--|
+|Find next/previous||F3 / Shift+F3||
 
 :large_orange_diamond: **Rich languages editing**
 |Command|macOS|Windows|Linux|
@@ -56,5 +59,20 @@
 |Command|macOS|Windows|Linux|
 |:--|:--|:--|:--|
 |Show integrated terminal|⌃` |||
+
+## keybindings.json
+- `PATH (macOS)` : `$HOME/Library/Application\ Support/Code/User/keybindings.json`
+- JSON File
+    - [./json/keybindings.json](./json/keybindings.json)
+
+:large_orange_diamond: **Custom**
+|Command|macOS|Windows|Linux|
+|:--|:--|:--|:--|
+|Editor :left_right_arrow: Terminal move|⌃:|||
+
+## settings.json
+- `PATH (macOS)` : `$HOME/Library/Application\ Support/Code/User/settings.json`
+- JSON File
+    - [./json/settings.json](./json/settings.json)
 
 ## add on
