@@ -16,3 +16,4 @@
 |[df](src/df.md)||
 |[du](src/du.md)||
 |[dd](src/dd.md)|ファイルコピー|
+|[lsof](src/lsof.md)|開いているファイルと, そのファイルを使用しているプロセス一覧を表示|
